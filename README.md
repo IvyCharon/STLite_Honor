@@ -73,7 +73,7 @@
 
 OJ 地址：https://oj.yukisaki.cn
 
-***特别注意：提交的题为 "vector(Honor)" ，请大家不要交错题了！***
+***特别注意：提交的题为 "vector-工科" ，请大家不要交错题了！***
 
 * 以 vector 为例，你只需要将你 `vector.hpp` 中的代码贴到 OJ 上提交即可
 * 评测**开 O2 优化**
